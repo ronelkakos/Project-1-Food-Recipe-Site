@@ -7,7 +7,11 @@ My first project on HTML, where I created a food recipe site for anyone to read 
 Here below are the directions I wrote if you'd like to view the website properly instead of having to download the code andd figuring out how to view it: 
 
 1.) First, open a separate tab, and search/go to raw.githack.com.
+
 2.) Secondly, use this link to copy and paste onto the middle search on raw.githack.com -> https://github.com/ronelkakos/Project-1-Food-Recipe-Site/blob/main/project1/default.html
+
 3.) Third, under "Use this URL in production", click the small clipboard picture to copy the link.
+
 4.) Then, open another separate tab and paste the link you copied from the clipboard under "Use this URL in production" onto your browser's search bar and click enter.
+
 5.) Lastly, enjoy viewing my website!
