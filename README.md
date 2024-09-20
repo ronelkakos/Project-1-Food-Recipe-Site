@@ -8,5 +8,5 @@ To view the website easily and quickly without having to download files, here is
 
 (right click and click open link in new tab)
 
-https://github.com/ronelkakos/Project-1-Food-Recipe-Site/blob/main/project1/default.html
+https://rawcdn.githack.com/ronelkakos/Project-1-Food-Recipe-Site/da6f0ac8c01912bf5eebd78c65b6e602424c537b/project1/default.html
 
